@@ -21,7 +21,7 @@ A simple browser-based tool to upload and convert `.md` Markdown files into form
 4. Click "Download HTML" to save
 
 ## 📸 Screenshot
- image.png
+ [view here](image.png)
 
 
 ---
