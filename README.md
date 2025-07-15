@@ -22,8 +22,11 @@ A simple browser-based tool to upload and convert `.md` Markdown files into form
 
 ## 📸 Screenshot
  [view here](image.png)
-
-
+ 
 ---
 
+## 🤝 Contributing
+Pull requests are welcome! If you'd like to improve the tool or add features, feel free to fork the repo and open a PR.
 
+## Auther
+- Bishow Ghimire
